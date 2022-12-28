@@ -5,12 +5,293 @@ const RightBar = () => {
     <div className="rightBar">
       <div className="rightBarWrapper">
         <div className="birthdayContainer">
-          <img src="/assects/friend/aliabad.png" className="birthdayImageContainer" alt="" />
-          <span className="birthdayText">happy birthDay</span>
+          <img className="birthdayImgContainer" src="gift.jpg" alt="" />
+          <span className="birthdayText">
+            <b>nadeem</b> and <b>three other friend have</b> birthday
+          </span>
         </div>
+        <img src="assects/friend/gojal.png" alt="" className="rightbarAdd" />
+        <h4 className="rightbarTitle">online friend</h4>
+        <ul className="rightBarFriendList">
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>{" "}
+          <li className="rightbarFriend">
+            <div className="rightBarProfileImgContainer">
+              <img
+                src="assects/friend/gojal.png"
+                alt=""
+                className="rightBarProfileImg"
+              />
+              <span className="rightbaronline"></span>
+            </div>
+            <span className="rightBarUserName">john</span>
+          </li>
+        </ul>
       </div>
     </div>
   );
-}
+};
 
 export default RightBar;
