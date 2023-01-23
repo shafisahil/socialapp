@@ -1,9 +1,8 @@
 
-
-import Profile from "./pages/profile/profile";
+import Home from "./pages/Home/home"
 function App() {
   return (
-   <Profile/>
+    <Home/>
   );
 }
 

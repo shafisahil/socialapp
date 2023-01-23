@@ -1,11 +1,12 @@
 import React from "react";
-
+import Profile from "../../pages/profile/profile"
 import "../../app.css"
- export const Home = () => {
+ const Home = () => {
   return (
     <>
-    df</>
+    <Profile/>
+    </>
   );
 };
 
-// export default Home;
+export default Home;
