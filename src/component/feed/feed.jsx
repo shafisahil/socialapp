@@ -1,23 +1,19 @@
 import React from 'react';
+import { Posts } from '../../data/postdammyData/postDammyData';
 import Post from '../post/post';
 import Share from '../share/share';
 import "./feed.css"
-const Feed = () => {
+export default function Feed (){
   return (
     <div className='feed'>
       <div className="feedWrapper">
         <Share/>  
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
+        {Posts.map((p)=>(
+          <Post key={p.key} post ={p}/>
+        ))}
       </div>
     </div>
   );
 }
 
-export default Feed;
+

@@ -1,12 +1,11 @@
-import React from 'react';
-import TopBar from '../../component/TopBar/TopBar';
+import React from "react";
 
-const Home = () => {
+import "../../app.css"
+ export const Home = () => {
   return (
-    <div>
-     <TopBar/>
-    </div>
+    <>
+    df</>
   );
-}
+};
 
-export default Home;
+// export default Home;
